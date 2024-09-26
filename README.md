@@ -1,5 +1,7 @@
-# **AEROFIT🏋-DESCRIPTIVE STATISTICS & PROBABILITY💹**
-
+<div align="center">
+    <h1><b> 🏋AEROFIT🏋</h1> 
+<h2 style="text-align: center">💹DESCRIPTIVE STATISTICS & PROBABILITY💹</h2></b>
+</div>
 
 # **About Aerofit💪**  
 
