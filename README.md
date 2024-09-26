@@ -2,6 +2,9 @@
     <h1><b> 🏋AEROFIT🏋</h1> 
 <h2 style="text-align: center">💹DESCRIPTIVE STATISTICS & PROBABILITY💹</h2></b>
 </div>
+        
+<kbd>![Screenshot 2024-09-26 232109](https://github.com/user-attachments/assets/62f1fd62-ca7b-48c2-adbb-998838f51a6f)</kbd>
+
 
 # **About Aerofit💪**  
 
